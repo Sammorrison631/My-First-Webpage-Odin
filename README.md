@@ -19,6 +19,12 @@
 		  </ol>
 		  
 		  <h3>Lets Get right into it</h3>
+		  
+		    <p>Here is a pic of me for smiles</p>
+		    
+		    <img src="/home/samuel/img/profile_pic1.jpg" width="150" alt="Selfie">
+		    <!--Keep It Simple Stupid-->
+		    
 		  <p>Simple Ordered list using html. Note the numbers start at 30. Below example starts at 1</p>
 		  <ol start="30">
 			  <li>Text 30</li>
