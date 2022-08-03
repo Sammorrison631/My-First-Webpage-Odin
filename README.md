@@ -16,10 +16,37 @@
 		  <ol>
 		    <li>Keep Building My Professional Portfolio as well as keep an edge by building myself into a brand</li>
 		    <li>20+ Hours of studying/coding time a week</li>
-		    <li>
+		  </ol>
+		  
+		  <h3>Lets Get right into it</h3>
+		  <p>Simple Ordered list using html. Note the numbers start at 30. Below example starts at 1</p>
+		  <ol start="30">
+			  <li>Text 30</li>
+			  <li>Text 31</li>
+			  <li>Text 32</li>
+		  </ol>
+		  <p>Ordered list starting from one</p>
+		  <ol>
+			<li>Number 1</li>
+			<li>Number 2</li>
+			<li>Number 3</li>
 		  </ol>
 
+		  <p>HTML will always be the basis for any webpage. CSS is for styling. Java, Python Etc. are for programming. Join me on this journey to code!!</p>
 
+		  <p>Like look below, this is <em>Amazing!!</em> Any beginning or experienced developer can create a portfolio or show the architecture of a project using
+			 Lorem Ipsum. check out the paragraph below</p>
+
+			 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus luctus 
+				accumsan tortor posuere ac ut consequat semper. Lacus viverra vitae congue eu consequat ac felis donec et. Elementum eu facilisis sed odio morbi quis
+				commodo odio. Sapien pellentesque habitant morbi tristique senectus et netus et. Risus quis varius quam quisque id diam vel quam elementum. Enim nec 
+				dui nunc mattis enim ut tellus elementum. Vitae justo eget magna fermentum iaculis. Sit amet consectetur adipiscing elit ut. Semper auctor neque 
+				vitae tempus quam pellentesque nec nam. Amet aliquam id diam maecenas ultricies mi eget. Ac feugiat sed lectus vestibulum mattis ullamcorper. Urna et pharetra pharetra massa massa ultricies. Condimentum id venenatis a condimentum.
+			</p>
+
+
+		  
 	</body>
 
 </html>
+
